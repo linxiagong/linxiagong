@@ -19,6 +19,7 @@ Feel free to reach out if you’re hiring in AI or related fields.
 - [Email](linxiagong@gmail.com)  
 
 ## ⚠️ Disclaimers (Special Note for Marvel Rivals)
+I’ve noticed that much of my past research on matchmaking has been mistakenly associated with Marvel Rivals. My name, papers, and talks have circulated widely in the game community, but many of these references are misinterpretations.
 - 🎮 **Marvel Rivals Players**: I have **zero involvement** in the development of *Marvel Rivals*, and I do not know its dev team.  
   👉 Please note that I **cannot solve your game issues**.  
 - 📚 **Researchers interested in game matchmaking**: Before reaching out, you may find this useful:  
