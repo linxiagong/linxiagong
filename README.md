@@ -6,7 +6,7 @@
 - 🧠 Former **Research Engineer** at [Sea AI Lab](https://github.com/sail-sg), Sea Limited (Shopee’s parent company, **SE**) in Singapore 🇸🇬 (2021–2023)  
   Focus: **Reinforcement Learning** & **Generative Models**
 - 📊 Previously, **Data Mining Research Engineer** at Fuxi AI Lab, NetEase (**NTES**), Hangzhou 🇨🇳 (2017–2021)  
-  Focus: **User Profiling & Recommendation Systems**
+  Focus: **User Profiling & Fraud Detection & Game Matchmaking**
 
 
 ## 🚀 Opportunities
