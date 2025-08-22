@@ -9,7 +9,7 @@
   Focus: **User Profiling & Fraud Detection & Game Matchmaking**
 
 
-## 🚀 Opportunities
+## Open to new opportunities in Zurich, Switzerland 🇨🇭
 I am currently **open to new job opportunities in Zurich, Switzerland 🇨🇭**.  
 Feel free to reach out if you’re hiring in AI or related fields.  
 
