@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Linxia.
 
 ## 👨‍💻 About Me
-- 🔬 **AI Engineer** at [Sony AI Lab](https://github.com/sony) in Zurich, Switzerland 🇨🇭 (since 2023)  
+- 🔬 **AI Engineer** at Sony AI Lab in Zurich, Switzerland 🇨🇭 (since 2023)  
   Focus: **Responsible AI** & **AI Ethics**
-- 🧠 Former **Research Engineer** at [Sea AI Lab](https://github.com/sea-ai-lab), Sea Limited (Shopee’s parent company, **SE**) in Singapore 🇸🇬 (2021–2023)  
+- 🧠 Former **Research Engineer** at [Sea AI Lab](https://github.com/sail-sg), Sea Limited (Shopee’s parent company, **SE**) in Singapore 🇸🇬 (2021–2023)  
   Focus: **Reinforcement Learning** & **Generative Models**
 - 📊 Previously, **Data Mining Research Engineer** at Fuxi AI Lab, NetEase (**NTES**), Hangzhou 🇨🇳 (2017–2021)  
   Focus: **User Profiling & Recommendation Systems**
